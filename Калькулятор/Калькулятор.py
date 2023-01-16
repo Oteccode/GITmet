@@ -28,3 +28,4 @@ for i in action, number1, number2:
         print("Введите правильно значение((")
         sleep(10)
 
+        #Cамый легкий калькулятор для python
